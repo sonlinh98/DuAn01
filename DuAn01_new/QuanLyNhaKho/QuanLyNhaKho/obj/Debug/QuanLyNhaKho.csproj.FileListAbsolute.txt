@@ -1,0 +1,16 @@
+C:\Users\trongson\Desktop\DuAn01_new\QuanLyNhaKho\QuanLyNhaKho\bin\Debug\QuanLyNhaKho.exe.config
+C:\Users\trongson\Desktop\DuAn01_new\QuanLyNhaKho\QuanLyNhaKho\obj\Debug\QuanLyNhaKho.csprojResolveAssemblyReference.cache
+C:\Users\trongson\Desktop\DuAn01_new\QuanLyNhaKho\QuanLyNhaKho\obj\Debug\QuanLyNhaKho.BanHang.resources
+C:\Users\trongson\Desktop\DuAn01_new\QuanLyNhaKho\QuanLyNhaKho\obj\Debug\QuanLyNhaKho.DangNhap.resources
+C:\Users\trongson\Desktop\DuAn01_new\QuanLyNhaKho\QuanLyNhaKho\obj\Debug\QuanLyNhaKho.HangHoa.resources
+C:\Users\trongson\Desktop\DuAn01_new\QuanLyNhaKho\QuanLyNhaKho\obj\Debug\QuanLyNhaKho.Properties.Resources.resources
+C:\Users\trongson\Desktop\DuAn01_new\QuanLyNhaKho\QuanLyNhaKho\obj\Debug\QuanLyNhaKho.QuanLyNhanVien.resources
+C:\Users\trongson\Desktop\DuAn01_new\QuanLyNhaKho\QuanLyNhaKho\obj\Debug\QuanLyNhaKho.QuanLyPhieuNhap.resources
+C:\Users\trongson\Desktop\DuAn01_new\QuanLyNhaKho\QuanLyNhaKho\obj\Debug\QuanLyNhaKho.QuanLyPhieuXuat.resources
+C:\Users\trongson\Desktop\DuAn01_new\QuanLyNhaKho\QuanLyNhaKho\obj\Debug\QuanLyNhaKho.ThemMoiPhieuNhap.resources
+C:\Users\trongson\Desktop\DuAn01_new\QuanLyNhaKho\QuanLyNhaKho\obj\Debug\QuanLyNhaKho.ThemMoiPhieuXuat.resources
+C:\Users\trongson\Desktop\DuAn01_new\QuanLyNhaKho\QuanLyNhaKho\obj\Debug\QuanLyNhaKho.csproj.GenerateResource.Cache
+C:\Users\trongson\Desktop\DuAn01_new\QuanLyNhaKho\QuanLyNhaKho\bin\Debug\QuanLyNhaKho.exe
+C:\Users\trongson\Desktop\DuAn01_new\QuanLyNhaKho\QuanLyNhaKho\bin\Debug\QuanLyNhaKho.pdb
+C:\Users\trongson\Desktop\DuAn01_new\QuanLyNhaKho\QuanLyNhaKho\obj\Debug\QuanLyNhaKho.exe
+C:\Users\trongson\Desktop\DuAn01_new\QuanLyNhaKho\QuanLyNhaKho\obj\Debug\QuanLyNhaKho.pdb
